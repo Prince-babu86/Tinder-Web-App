@@ -15,7 +15,7 @@ var users = [
     },
     {
       profilepic: "https://randomuser.me/api/portraits/women/2.jpg",
-      displaypicture: "https://i.pinimg.com/736x/7e/ca/37/7eca375e9c67a4da344f7c0fe141b2ac.jpg",
+      displaypicture: "https://i.pinimg.com/736x/f4/75/a0/f475a07db4ae70d7ec2f81af5df30c9f.jpg",
       pendingmessage: 2,
       location: "Los Angeles",
       name: "Bob",
